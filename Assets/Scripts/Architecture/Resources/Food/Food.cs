@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Architecture
 {
-    public class Food : MonoBehaviour
+    public class Food : Resource
     {
         // Start is called before the first frame update
         void Start()
